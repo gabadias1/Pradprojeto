@@ -17,3 +17,4 @@ class Proxy(Assunto):
 if __name__ == "__main__":
     proxy = Proxy()
     proxy.solicitar()
+.
