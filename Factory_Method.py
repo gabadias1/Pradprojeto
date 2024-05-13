@@ -23,4 +23,3 @@ class CriadorConcreto(Criador):
 if __name__ == "__main__":
     criador = CriadorConcreto()
     print(criador.alguma_operacao())
-.
