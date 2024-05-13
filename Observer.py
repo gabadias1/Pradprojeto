@@ -41,3 +41,4 @@ if __name__ == "__main__":
     assunto.adicionar_observador(observador2)
 
     assunto.estado = "Novo Estado"
+.
